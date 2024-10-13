@@ -1,0 +1,12 @@
+REMOTE_URL: http://127.0.0.1:4723
+
+ANDROID_DEVICE:
+  platformName: android
+  automationName: uiautomator2
+  deviceName: emulator-5554
+  platformVersion: '14'
+  app: 'C:\\Users\\New Thiraphat\\Desktop\\app\\camt.apk'
+  appWaitActivity: com.swaglabsmobileapp.MainActivity
+
+USERNAME: standard_user
+PASSWORD: secret_sauce
